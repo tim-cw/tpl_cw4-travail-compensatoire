@@ -1,0 +1,1 @@
+// Mettre votre structure classique d'une composante tel que vu en classe
